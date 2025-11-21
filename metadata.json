@@ -1,0 +1,5 @@
+{
+  "name": "Smart Quiz",
+  "description": "A fun and challenging True/False trivia quiz application built with React and Tailwind CSS. Test your knowledge across various categories and difficulties.",
+  "requestFramePermissions": []
+}
